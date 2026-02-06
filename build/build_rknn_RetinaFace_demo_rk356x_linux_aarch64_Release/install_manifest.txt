@@ -1,0 +1,6 @@
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/./rknn_retinaface_demo
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/./rknn_retinaface_camera_demo
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/model/test.jpg
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/model/RetinaFace.rknn
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/lib/librknnrt.so
+/home/everglow/Downloads/rknn/rknn_model_zoo/install/rk356x_linux_aarch64/rknn_RetinaFace_demo/lib/librga.so
